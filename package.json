@@ -4,6 +4,7 @@
   "description": "A Vue.js project",
   "author": "17620387800@bokecad.com <17620387800@bokecad.com>",
   "private": true,
+  "keywords": ["boke","boke-ui","bokeui","bokeUi","bokecad"],
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
