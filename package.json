@@ -1,10 +1,11 @@
 {
   "name": "bokeui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "17620387800@bokecad.com <17620387800@bokecad.com>",
-  "private": true,
+  "private": false,
   "keywords": ["boke","boke-ui","bokeui","bokeUi","bokecad"],
+  "main": "package/boke-ui.min.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
